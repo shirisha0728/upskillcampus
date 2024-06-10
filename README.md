@@ -1,7 +1,6 @@
 # upskillcampus
 Smart city traffic patterns
 
-
 ## Smart Traffic Forecasting Project
 
 ### Overview
